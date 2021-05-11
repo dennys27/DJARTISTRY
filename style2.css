@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.abt1{
+    width: 100%;
+    height: 800px;
+  }
+.text-white{
+
+    padding-top: 50px;
+    
+  }
+
+.abt2{
+    width: 500px;
+    height: 500px;
+    border-radius: 15px;
+   margin-left: 370px;
+}
+

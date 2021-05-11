@@ -1,0 +1,52 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+/*#container{
+  background-color: rgb(26, 27, 48);
+}*/
+
+.row {
+  padding-top: 40px;
+
+}
+
+.card{
+  margin-left: 9px;
+ margin-top: 10px;
+}
+
+.content {
+
+ background-color: rgb(220, 225, 230);
+ 
+
+}
+
+#cart{
+margin-right: 60px;
+}
+#carouselExampleCaptions{
+  padding-top: 50px;
+}
+#opt li{
+  padding-left: 50px;
+}
+#pdtsbg1{
+  background-color: rgb(226, 226, 226);
+}
+#pdtsbg2{
+  background-color: rgb(226, 226, 226);
+}
+
+
+
+
+
+
+
+
+
+
+
